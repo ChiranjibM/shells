@@ -3,7 +3,7 @@ function greeting() {
 
 str="Hello, $name"
 echo $str
-
+echo "test"
 }
 
 echo "Enter your name"
